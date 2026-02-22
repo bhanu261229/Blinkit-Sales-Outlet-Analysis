@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Data Analysis (Python Project)
+# 🛒 Blinkit Sales outlet Analysis (Python Project)
 
 ## 📌 Project Overview
 This project performs **exploratory data analysis (EDA)** on Blinkit sales data using **Python**.  
